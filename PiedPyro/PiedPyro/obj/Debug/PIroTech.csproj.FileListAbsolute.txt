@@ -1,0 +1,48 @@
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.Main.resources
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\PIroTech.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\PIroTech.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\PIroTech.exe.config
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\PIroTech.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\PIroTech.exe
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\PIroTech.pdb
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\PIroTech.Properties.Resources.resources
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\PIroTech.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\PIroTech.exe
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\PIroTech.pdb
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\IronPython.SQLite.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\IronPython.Wpf.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\Renci.SshNet.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\IronPython.SQLite.xml
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\IronPython.Wpf.xml
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Debug\PIroTech.exe.config
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\Interop.WMPLib.dll
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.csproj.ResolveComReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.exe
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.pdb
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Debug\PIroTech.exe.manifest
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Debug\PIroTech.application
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Debug\PIroTech.exe
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Debug\PIroTech.pdb
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.Main.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.Properties.Resources.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.exe.manifest
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Debug\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Debug\PIroTech.exe.config
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\Interop.WMPLib.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.csproj.ResolveComReference.cache
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Debug\PIroTech.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Debug\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Debug\PIroTech.exe
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Debug\PIroTech.pdb
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.Main.resources
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.Properties.Resources.resources
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.exe
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Debug\PIroTech.pdb

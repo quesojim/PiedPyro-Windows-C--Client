@@ -1,0 +1,55 @@
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\PIroTech.exe.config
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\PIroTech.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\PIroTech.exe
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\PIroTech.pdb
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\IronPython.SQLite.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\IronPython.Wpf.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\Renci.SshNet.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\IronPython.SQLite.xml
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Release\IronPython.Wpf.xml
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Release\PIroTech.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Release\Test.Main.resources
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Release\PIroTech.Properties.Resources.resources
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Release\PIroTech.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Release\PIroTech.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Release\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Release\PIroTech.exe
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Release\PIroTech.pdb
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\PIroTech.exe.config
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Release\PIroTech.exe
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Release\PIroTech.pdb
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\PIroTech.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\PIroTech.exe
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\PIroTech.pdb
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\IronPython.SQLite.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\IronPython.Wpf.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\Renci.SshNet.dll
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\IronPython.SQLite.xml
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\bin\Release\IronPython.Wpf.xml
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Release\Test.Main.resources
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Release\PIroTech.Properties.Resources.resources
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Release\PIroTech.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Release\PIroTech.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Release\PIroTech.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\PIroTech\PIroTech\obj\Release\PIroTech.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\PIroTech.exe.config
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Interop.WMPLib.dll
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.csproj.ResolveComReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.exe
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.pdb
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\PIroTech.exe.manifest
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\PIroTech.application
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\PIroTech.exe
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\PIroTech.pdb
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\IronPython.SQLite.xml
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\IronPython.Wpf.xml
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.Main.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.Properties.Resources.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.exe.manifest
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.application
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.g.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\PiedPyro.exe.config

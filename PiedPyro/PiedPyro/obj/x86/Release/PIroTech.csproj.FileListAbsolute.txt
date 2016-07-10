@@ -1,0 +1,7 @@
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\x86\Release\PIroTech.exe.config
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\x86\Release\PIroTech.csproj.ResolveComReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\x86\Release\PIroTech.Main.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\x86\Release\PIroTech.Properties.Resources.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\x86\Release\PIroTech.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\x86\Release\PIroTech.csprojResolveAssemblyReference.cache

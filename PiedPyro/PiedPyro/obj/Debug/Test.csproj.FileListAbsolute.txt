@@ -1,0 +1,13 @@
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Main.resources
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\quesojim\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\Test.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\Test.application
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.exe.manifest
+C:\Users\QuesoJim\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.application

@@ -1,0 +1,48 @@
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\Pied Pyro.exe.config
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Interop.WMPLib.dll
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Pied Pyro.csproj.ResolveComReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\Pied Pyro.exe.manifest
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\Pied Pyro.application
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\Pied Pyro.exe
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\bin\Release\Pied Pyro.pdb
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Pied Pyro.g.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PIroTech.Main.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\PiedPyro.Properties.Resources.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Pied Pyro.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Pied Pyro.exe.manifest
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Pied Pyro.application
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Pied Pyro.exe
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Pied Pyro.pdb
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PIroTech\PIroTech\obj\Release\Pied Pyro.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\bin\Release\Pied Pyro.exe.config
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\bin\Release\Pied Pyro.exe.manifest
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\bin\Release\Pied Pyro.application
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\bin\Release\Pied Pyro.exe
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\bin\Release\Pied Pyro.pdb
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Interop.WMPLib.dll
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Pied Pyro.csproj.ResolveComReference.cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Pied Pyro.g.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\PIroTech.Main.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\PiedPyro.Properties.Resources.resources
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Pied Pyro.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Pied Pyro.exe.manifest
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Pied Pyro.application
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Pied Pyro.exe
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Pied Pyro.pdb
+C:\Users\QuesoJim\Google Drive\Pyrotechnics\PiedPyro\PiedPyro\obj\Release\Pied Pyro.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\bin\Release\Pied Pyro.exe.config
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Interop.WMPLib.dll
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Pied Pyro.csproj.ResolveComReference.cache
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Pied Pyro.exe
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Pied Pyro.pdb
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\bin\Release\Pied Pyro.exe.manifest
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\bin\Release\Pied Pyro.application
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\bin\Release\Pied Pyro.exe
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\bin\Release\Pied Pyro.pdb
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Pied Pyro.csprojResolveAssemblyReference.cache
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Pied Pyro.g.resources
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\PIroTech.Main.resources
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\PiedPyro.Properties.Resources.resources
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Pied Pyro.csproj.GenerateResource.Cache
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Pied Pyro.exe.manifest
+C:\Users\QuesoJim\Desktop\PiedPyro Backup 2-14\PiedPyro\obj\Release\Pied Pyro.application
